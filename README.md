@@ -1,6 +1,12 @@
 # Google-Dictionary
 ## Google Dictionary (By Google) - Reversed Engineered For Education Purposes
 
+![](resources/screenshot_1.png)
+![](resources/screenshot_2.png)
+![](resources/screenshot_3.png)
+![](resources/screenshot_4.png)
+![](resources/screenshot_5.png)
+
 View definitions easily as you browse the web.
 IMPORTANT:
  - The pop-up bubble will not work in tabs that were open prior to installation. After installing this extension, either reload your open tabs or restart Chrome.
