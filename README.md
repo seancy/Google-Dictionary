@@ -41,3 +41,5 @@ Supported dictionaries:
 If you opt in (via the options page), this extension will store a history of all your looked-up words and their definitions. You can download this history as a CSV file at any time. In addition, you can allow other Chrome extensions to access this history. For example, a third-party extension could produce flashcards to help you practice words you've looked up before.
 
 By installing this extension, you agree to the Terms of Service: http://www.google.com/policies/terms/
+
+<sub><a target="_blank" href="https://paypal.me/e1adkarak0" rel="nofollow"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" width="60" height="16" border="0" alt="PayPal Donation"></a></sub>
